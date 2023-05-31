@@ -10,3 +10,5 @@ export let insultos = [
     "sua mãe é uma piranha",
     "you crazy man"
 ]
+
+let empty = []
