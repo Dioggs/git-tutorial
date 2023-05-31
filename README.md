@@ -9,3 +9,8 @@
 * __git remote remove {nome_do_repo_na_web}__ --> remove a ligação desse repo na web com o nosso repo local
 * __git push {nome_do_repo_na_web} {branch}__ --> coloca uma branch local nesse repo da web
 * 
+
+#DUVIDAS
+
+* Toda vez que damos um git push, salvamos o estado do repo no github. Dessa forma, toda vez que damos um push, atualizamos o estado salvo
+na última vez que demos um push. No final, isso não reflete o estado atual do github, só o estado na nossa cópia, portanto devemos sempre dar um __git fetch__ para pegar o estado realmente atual

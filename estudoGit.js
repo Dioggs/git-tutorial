@@ -1,4 +1,4 @@
-import {insultos} from './insultos'
+import {insultos} from './insultos.js'
 
 console.log("BEM VINDO AO GERADOR DE INSULTOS\n");
 
