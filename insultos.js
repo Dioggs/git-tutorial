@@ -11,4 +11,6 @@ export let insultos = [
     "you crazy man"
 ]
 
-let empty = []
+let empty = [];
+
+let amptier = [];
