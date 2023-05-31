@@ -12,5 +12,3 @@ export let insultos = [
 ]
 
 let empty = [];
-
-let amptier = [];
