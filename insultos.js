@@ -11,3 +11,4 @@ export let insultos = [
     "you crazy man"
 ]
 
+let bataat = [];
