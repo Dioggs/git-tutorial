@@ -5,7 +5,10 @@ let insultos = [
     "vc é otário",
     "sua mãe é gorda",
     "vc é burro",
-    "corno"
+    "corno",
+    "vc é pobre",
+    "vc é uma decepção para sua família",
+    "otaku fedido"
 ]
 
 insultos.forEach(insulto => console.log(insulto));
